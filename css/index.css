@@ -397,7 +397,48 @@ width: 45%;
       font-size:25px;
       padding-bottom: 10%;
   }
-        
+  /* Services page */
+  .Midcontainer{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-content: center;
+    font-size: 30px;
+    width:100%;
+    padding-top: 5%;
+    padding-bottom:5%;
+                   
+   }  
+   .DD1{
+       width: 100%;
+   }
+   .serv{
+       font-size: 40px;
+   }
+  .servicess{
+      font-size: 30px;
+  }  
+ .secbut{
+     margin-left:40%;
+     font-size:28px;
+ }
+ .endcont{
+
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     font-size:30px;
+     align-items: center;
+ }   
+ .endtxt{
+     width: 100%;
+     text-align: center;
+ }  
+
+ .end{
+     width: 100%;
+ }
+
 }
 
 
