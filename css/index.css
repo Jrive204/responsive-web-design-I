@@ -299,6 +299,10 @@ width: 45%;
         justify-content: center;
     }
 
+    h1{
+        font-size:100px;
+    }
+
     .GI{
         border-bottom: 1px black solid;
         padding-bottom: 10%;
@@ -340,7 +344,7 @@ width: 45%;
 
     }
     .FA{
-        font-size: 25px;
+        font-size: 30px;
         width:100%;
         padding-top: 10%;
                         
@@ -358,7 +362,7 @@ width: 45%;
     
         }  
     .SPV{
-         font-size: 25px;
+         font-size: 30px;
          width:100%;
          padding-top: 10%;
                         
@@ -369,6 +373,11 @@ width: 45%;
         width: 100%;
         border: .5px solid black;
         }   
+  .contact{
+      font-size:25px;
+      padding-bottom: 10%;
+  }
+        
 }
 
 
